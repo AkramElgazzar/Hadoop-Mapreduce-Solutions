@@ -1,6 +1,6 @@
-# Hadoop MapReduce Tasks
+# Hadoop MapReduce 
 
-This repository includes two Hadoop MapReduce projects executed on a fully functional Hadoop cluster deployed using Docker Compose.  
+This repository includes two Hadoop MapReduce tasks executed on a fully functional Hadoop cluster deployed using Docker Compose.  
 Both tasks were implemented, compiled, and tested on Hadoop 3.2+ with YARN and HDFS running across NameNode, DataNode, ResourceManager, and NodeManager containers.
 
 ---
